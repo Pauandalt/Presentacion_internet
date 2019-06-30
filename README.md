@@ -15,3 +15,18 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 A machine can be said to be intelligent if its answers are indistinguishable from those of a human being  
 Alan Turing  
 ![](https://4.bp.blogspot.com/-5iBZb6pD5RY/V_ZgdzTd4VI/AAAAAAAABUQ/6sRuUoIOyTAMwTSQjd4b1XHZmVyzrdH8gCLcB/s1600/01%2BTuring%2BRobot.jpg)
+
+### Chinese room
+![](https://sophoslogos.files.wordpress.com/2010/04/chinese-room.png)
+
+???
+ Historia de los ordenadores
+- 1945 Primeros ordenadores 
+- 1951 Manifiesto 
+
+
+### La historia del ajedrez
+
+ &nbsp; | &nbsp; 
+--- | --- 
+ ![](https://steemitimages.com/p/2YRZBi4FZVHehnzJUCrtbagUKMa8YnErmcyYSe6JB1cBsMNM2tAffrp2wVpcz1gFGnkU9w92rYSqgmj2VnBLizwqvfAAvpGf9Ui?format=match&mode=fit) | &nbsp; 
