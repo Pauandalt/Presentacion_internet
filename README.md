@@ -1,3 +1,7 @@
 # INTERNET Y SUS PLATAFORMAS
 
-[**PLAY PRESENTATION:**](https://pauandalt.github.io/r/r?)
+*PLUSE EL PLAY PARA INICIAR LA PRESENTACIÓN*
+
+[![IMAGE ALT TEXT HERE](PLAY.png)](https://pauandalt.github.io/r/r?)
+
++++
