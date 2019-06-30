@@ -1,6 +1,6 @@
 # Inteligencia Artificial y sociedad
 ???
-Play: https://pauandalt.github.io/r/r?https://nicolasserrano.github.io/digital/AI.md
+Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_internet/
 
 ## En los orígenes
 
