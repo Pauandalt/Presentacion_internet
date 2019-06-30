@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+  onload="resizeIframe(this)";
+</script>
+<style>
+div.gallery {
+  border: 1px solid #ccc;
+  position: relative;
+  font-family: Arial;}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 206px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 33.33%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.gallery .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 1px;
+}
+
+h4 {
+    width: 100%;
+    font-size: x-large;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+    margin: 2px;
+    color: #99090c;
+    margin-bottom: 0px;
+}
+</style>
+</head>
+<body>
+<h4>Internet de las cosas</h4>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://nicolasserrano.github.io/digital/#s1">
+      <img src="images/pexels-photo-1181244.jpeg" alt="Tecnolog&iacute;a digital" width="600" height="400">
+    </a>
+    <div class="content">
+    <h2>Tecnolog&iacute;a digital</h2>
+  </div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://nicolasserrano.github.io/digital/#s2">
+      <img src="images/monitor-1307227_1280.jpg" alt="Internet" width="600" height="400">
+    </a>
+    <div class="content">
+    <h2>Internet</h2>
+  </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://nicolasserrano.github.io/digital/#s3">
+      <img src="images/block-chain-3569791_1280.jpg" alt="Internet of Things" width="600" height="400">
+    </a>
+    <div class="content">
+    <h2>Internet de las cosas</h2>
+  </div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+<h4>& Inteligencia Artificial</h4>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://nicolasserrano.github.io/digital/#s4">
+      <img src="images/network-3524352_1280.jpg" alt="Era Digital" width="600" height="400">
+    </a>
+    <div class="content">
+    <h2>Era Digital</h2>
+  </div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://nicolasserrano.github.io/digital/#s5">
+      <img src="images/girl-2181709_1280.jpg" alt="Inteligencia Artificial" width="600" height="400">
+    </a>
+    <div class="content">
+    <h2>Inteligencia Artificial</h2>
+  </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://nicolasserrano.github.io/digital/#s6">
+      <img src="images/photo-1485827404703-89b55fcc595e.jpg" alt="Machine Learning" width="600" height="400">
+    </a>
+    <div class="content">
+    <h2>Machine Learning</h2>
+  </div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+
+</body>
+</html>
