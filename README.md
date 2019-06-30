@@ -1,15 +1,8 @@
-# INTERNET Y SUS PLATAFORMAS
-???
-***
 
-## PLUSE EL PLAY PARA INICIAR LA PRESENTACIÓN
-
-[![IMAGE ALT TEXT HERE](PLAY.png)](https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_internet/)
-
-***
-???
 # Inteligencia Artificial y sociedad
 ???
+Play: https://nicolasserrano.github.io/r?https://nicolasserrano.github.io/digital/AI.md
+
 ## En los orígenes
 
 ### Una historia de ciencia ficción sobre AI, ¿o no?
