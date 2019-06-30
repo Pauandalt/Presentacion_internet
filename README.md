@@ -4,19 +4,16 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 
 ## En los orígenes
 
-### Una historia de ciencia ficción sobre AI, ¿o no?
+### Definición de internet:
 <p align="center">
-<img src="https://images-na.ssl-images-amazon.com/images/I/51PPlcfk6cL._SX311_BO1,204,203,200_.jpg">
-???
-[Vida 3.0](https://www.amazon.es/Vida-3-0-Historia-Max-Tegmark/dp/8430619623)
+> Red informática de nivel mundial que utiliza la línea telefónica para transmitir la información.
 
-### Test de turing
+### Definición de la World Wide Web (WWW):
 
-A machine can be said to be intelligent if its answers are indistinguishable from those of a human being  
-Alan Turing  
+> Uno de los servicios que más éxito ha tenido en internet ha sido la World Wide Web (WWW o la Web), hasta tal punto que es habitual la confusión entre ambos términos. La WWW es un conjunto de protocolos que permite, de forma sencilla, la consulta remota de archivos de hipertexto. Esta fue un desarrollo posterior (1990) y utiliza internet como medio de transmisión.
 ![](https://4.bp.blogspot.com/-5iBZb6pD5RY/V_ZgdzTd4VI/AAAAAAAABUQ/6sRuUoIOyTAMwTSQjd4b1XHZmVyzrdH8gCLcB/s1600/01%2BTuring%2BRobot.jpg)
 
-### Chinese room
+### Diferencia entre internet y la World Wide Web (WWW):
 ![](https://sophoslogos.files.wordpress.com/2010/04/chinese-room.png)
 
 ???
@@ -25,7 +22,7 @@ Alan Turing
 - 1951 Manifiesto 
 
 
-### La historia del ajedrez
+## Definición de lo que es un **hipertexto**
 
  &nbsp; | &nbsp; 
 --- | --- 
