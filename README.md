@@ -1,9 +1,11 @@
-# Inteligencia Artificial y sociedad
+# Internet y sus plataformas
 ???
 Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_internet/
 ## pase a la siguiente diapositiva para empezar
 
 ## 
+##
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAScAAACrCAMAAAATgapkAAAAA1BMVEX///+nxBvIAAAASElEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+A8W4AAH7AbJ4AAAAAElFTkSuQmCC)
 ???
 
 ## Definición de internet:
