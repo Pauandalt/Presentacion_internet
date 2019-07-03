@@ -33,6 +33,9 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 
 
 ## Definiciones de conceptos como http, url, etc
-
 [Presentación prezi](https://prezi.com/yy1qvuk2vhtj/que-significan-los-terminos-html-http-tcp-ip-lan-www/)
  ![](https://pauandalt.github.io/Internet_y_sus_plataformas/Explicaci%C3%B3n%20componentes%20b%C3%A1scicas%20de%20la%20web.png)
+ 
+## Plataformas de Internet
+[Presentación prezi](https://prezi.com/x97ej4aqd14i/plataformas-de-internet/)
+![](http://blogs.tecnalia.com/inspiring-blog/wp-content/uploads/sites/9/2017/10/plataformas-en-internet.jpg)
