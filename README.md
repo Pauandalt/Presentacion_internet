@@ -41,3 +41,11 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 ## Plataformas de Internet
 [Presentación prezi](https://prezi.com/x97ej4aqd14i/plataformas-de-internet/)
 ![](http://blogs.tecnalia.com/inspiring-blog/wp-content/uploads/sites/9/2017/10/plataformas-en-internet.jpg)
+
+## Funciones de una plataforma
+
++ Dar soporte al sitio Web de una empresa, el cual se logra mediante servicios de Hospedaje Web, enrutadores y cableado.
+
++ Alojar, servir, y mantener archivos para uno o más sitios web.
+
++ Permite asegurar el enrutamiento de paquetes entre redes o determinar la ruta que debe tomar el paquete de datos.
