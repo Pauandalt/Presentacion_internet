@@ -49,3 +49,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 + Alojar, servir, y mantener archivos para uno o más sitios web.
 
 + Permite asegurar el enrutamiento de paquetes entre redes o determinar la ruta que debe tomar el paquete de datos.
+
+## ¿Cuáles son?
+![](https://pauandalt.github.io/Internet_y_sus_plataformas/plataformas%20de%20internet.jpg)
+
