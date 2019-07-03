@@ -26,3 +26,12 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
  &nbsp; | &nbsp; 
 --- | --- 
  ![](https://www.media-studies.ca/articles/images/hypertex.gif) | &nbsp; 
+
+## Project 1989: 
+
+[Project 1989: ejemplo de lo que es una WWW y explicación de su historia](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/History.html) 
+
+
+## Definiciones de conceptos como http, url, etc
+
+ ![](https://pauandalt.github.io/Internet_y_sus_plataformas/Explicaci%C3%B3n%20componentes%20b%C3%A1scicas%20de%20la%20web.png)
