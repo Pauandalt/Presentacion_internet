@@ -5,7 +5,8 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 
 ## 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAScAAACrCAMAAAATgapkAAAAA1BMVEX///+nxBvIAAAASElEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+A8W4AAH7AbJ4AAAAAElFTkSuQmCC)
-## pase a la siguiente diapositiva para empezar
+
+### pase a la siguiente diapositiva para empezar
 
 ## Definición de internet:
 > Red informática de nivel mundial que utiliza la línea telefónica para transmitir la información.
