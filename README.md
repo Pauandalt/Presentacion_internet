@@ -48,3 +48,26 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 ## ¿Cuáles son?
 ![](https://pauandalt.github.io/Internet_y_sus_plataformas/plataformas%20de%20internet.jpg)
 
+## 7 Plataformas de Internet de las Cosas para empresas y emprendedores
+
+![](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2018/06/internetcosasTW.png)
+
+### ¿Por qué son importantes? 
+
++ Se espera que en 2020 el número de objetos conectados llegue a los 80.000 millones
++ Un negocio de 7.100 millones de dólares 
++ Dará empleo  36 millones de personas
++ 95% de los nuevos productos estarán conectados.
+
+### ¿Por qué son importantes? 
+
+> Según un informe de la consultora Gartner, el crecimiento de los negocios y el desarrollo de soluciones IoT será constante en los próximos años y uno de los grandes dinamizadores de la Economía a escala mundial. Hablamos tanto del desarrollo de aplicaciones propias, como de un nuevo entorno de negocio en el que las empresas tendrán que poner en comunicación sus objetos conectados para interconectarlos y, de esta manera, poder acceder a los millones de datos que les suministran.
+
+> En este mismo informe, la consultora señala que las plataformas de Internet de las Cosas van a ser claves para el desarrollo de nuevas soluciones para las empresas y emprendedores. De esta manera, entre las ventajas del uso de estas plataformas de Internet de las Cosas se señalan aspectos como:
+
++ Aprovisionamiento y gestión de puntos finales, así como interconectividad de los distintos objetos conectados.
++ Desarrollo de nuevas aplicaciones basadas en IoT.
++ Herramientas de gestión y análisis de datos
++ Procesamiento de secuencias de eventos.
++ Monitorización y seguridad de las aplicaciones IoT
++ Gestión de redes de comunicaciones, así como optimización  de procesos empresariales.
