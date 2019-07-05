@@ -71,3 +71,27 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 + Procesamiento de secuencias de eventos.
 + Monitorización y seguridad de las aplicaciones IoT
 + Gestión de redes de comunicaciones, así como optimización  de procesos empresariales.
+
+### 1- Android Things de Google
+
+![](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2018/06/googleiot.jpg)
+
+### 2- Microsoft Internet of Things
+![](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2018/06/MicrosoftIot.jpg)
+
+### 3- AWS IoT Core de Amazon
+![](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2018/06/aws.jpg)
+
+### 4- Eclipse IoT
+![](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2018/06/eclipse.jpg)
+
+### 5- Cumulocity IoT de AG
+![](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2018/06/cumulocity.jpg)
+
+### 6- Sofia2 de Indra
+
+![](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2018/06/sofia2.jpg)
+
+### 7- Mindsphere de Siemens
+
+![](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2018/06/mindsphere.jpg)
