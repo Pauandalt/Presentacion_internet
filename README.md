@@ -27,8 +27,7 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 
 ## Project 1989: 
 
-[Project 1989: ejemplo de lo que es una WWW y explicación de su historia](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/History.html) 
-![](https://cdn.theatlantic.com/assets/media/old_wire/img/upload/2013/04/30/Screen_Shot_2013-04-30_at_8.09.28_AM_1/lead_720_405.png?mod=1533691538)
+[Project 1989: ejemplo de lo que es una WWW y explicación de su historia](https://amp.businessinsider.com/images/4e0b8f4dccd1d54255060000-750-467.jpg)
 
 ## Definiciones de conceptos como http, url, etc
 [Presentación prezi](https://prezi.com/yy1qvuk2vhtj/que-significan-los-terminos-html-http-tcp-ip-lan-www/)
