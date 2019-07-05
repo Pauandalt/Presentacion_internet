@@ -5,10 +5,11 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 
 ## 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAScAAACrCAMAAAATgapkAAAAA1BMVEX///+nxBvIAAAASElEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+A8W4AAH7AbJ4AAAAAElFTkSuQmCC)
+## pase a la siguiente diapositiva para empezar
 
 ## Definición de internet:
-<p align="center">
 > Red informática de nivel mundial que utiliza la línea telefónica para transmitir la información.
+![](https://www.att.com/ecms/dam/att/consumer/support/landingpage/optimizeyourconnection/326100-1up-feature-pipe-545x312.png)
 
 ## Definición de la World Wide Web (WWW):
 
@@ -22,15 +23,12 @@ Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_i
 ???
 
 ## Definición de lo que es un **hipertexto**
-
- &nbsp; | &nbsp; 
---- | --- 
  ![](https://www.media-studies.ca/articles/images/hypertex.gif) | &nbsp; 
 
 ## Project 1989: 
 
 [Project 1989: ejemplo de lo que es una WWW y explicación de su historia](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/History.html) 
-
+![](https://cdn.theatlantic.com/assets/media/old_wire/img/upload/2013/04/30/Screen_Shot_2013-04-30_at_8.09.28_AM_1/lead_720_405.png?mod=1533691538)
 
 ## Definiciones de conceptos como http, url, etc
 [Presentación prezi](https://prezi.com/yy1qvuk2vhtj/que-significan-los-terminos-html-http-tcp-ip-lan-www/)
